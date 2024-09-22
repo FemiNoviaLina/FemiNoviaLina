@@ -1,16 +1,11 @@
-# 👋 Hi!
-I am currently an Informatics student interested in software development and leveraging data to maximize software capabilities.
+### Know
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![GO](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
-## 💫 About Me:
-👯 I'm looking to collaborate on tech-related projects.<br>
-🤝 I'm looking for help with tech-related challenges.<br>
-🌱 I'm currently learning about tech topics.<br>
-🧐 I'm curious, excited, and eager to learn more about tech.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feminovialina) 
-<br>😉 Please don't hesitate to approach me!
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
-<br>👩‍🏫 I am currently expanding my knowledge and trying to master more tech stacks.
+### Link
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/feminovialina) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank)](https://www.hackerrank.com/profile/feminovi)
